@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilitaryTimeConversion", "MilitaryTimeConversion\MilitaryTimeConversion.csproj", "{F1D788FD-65F4-4FEF-8B81-9EA0E9187462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest1", "UnitTest1\UnitTest1.csproj", "{1ABF444F-27EF-42F0-8A0D-95687F95FFD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1D788FD-65F4-4FEF-8B81-9EA0E9187462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D788FD-65F4-4FEF-8B81-9EA0E9187462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D788FD-65F4-4FEF-8B81-9EA0E9187462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D788FD-65F4-4FEF-8B81-9EA0E9187462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABF444F-27EF-42F0-8A0D-95687F95FFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABF444F-27EF-42F0-8A0D-95687F95FFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABF444F-27EF-42F0-8A0D-95687F95FFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABF444F-27EF-42F0-8A0D-95687F95FFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBC8C718-37F9-4BFF-988B-1019DA01DF65}
+	EndGlobalSection
+EndGlobal
